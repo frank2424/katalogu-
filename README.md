@@ -1,2 +1,2 @@
-# katalogu-
-group projcet
+# katalogu
+group project SE2022
